@@ -1,0 +1,3 @@
+useDynLib(tFDAprofile)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
